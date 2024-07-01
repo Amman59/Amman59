@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amman59
 - 👀 I’m interested in Physics, Mathmatics, and Statistics.
 - 🌱 I’m currently learning Python and, rather oddly, Korean.
-- 💞️ I’m looking to collaborate on creating mathmatical models to geneerate alpha. 
+- 💞️ I’m looking to collaborate on creating mathmatical models to generate alpha. 
 - 📫 How to reach me -@amman59@icloud.com
 
 <!---
